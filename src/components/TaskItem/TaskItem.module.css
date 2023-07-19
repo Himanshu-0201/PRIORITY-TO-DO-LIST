@@ -1,0 +1,40 @@
+p{
+    margin: 0px;
+}
+
+.task-item{
+    display: flex;
+    background-color: aliceblue;
+    margin: 10px;
+    border: 1px solid blue;
+}
+
+.complete-img{
+    width: 40px;
+    height: auto;
+    padding: 2px;
+    cursor: pointer;
+}
+
+.complete-img :hover{
+    transform: scale(1.1);
+}
+
+.complete-img img{
+    width: 100%;
+}
+
+.priority{
+    border-radius: 100%;
+    background: chocolate;
+    width: 7%;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.title{
+    width: 93%;
+    margin-left: 10px;
+    padding: 10px 0px;
+}
+

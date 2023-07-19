@@ -1,0 +1,20 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    /* background-color: #999; */
+}
+
+.task-list{
+    border: 1px solid;
+    width: 50%;
+    margin: auto;
+}
+
+.empty-task-bar{
+    margin: 0px;
+    padding: 10px 10px;
+    text-align: center;
+    color: crimson;
+}
+
+
